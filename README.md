@@ -27,7 +27,7 @@ The complete project is based upon 3 models which are as follows:
     typing,
     matplotlib,
     imageio,
-    tensorflow,\n
+    tensorflow,
     The main feature which distinguishes this model from the other lip reading model is that, it uses an imageio.mimsave() function which creates a GIF of the short 
     clip which is easier for the model to understand as:
     a) It is converted into grescale, thus has only 2 colors to distinguish between.
