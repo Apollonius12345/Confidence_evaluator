@@ -32,6 +32,7 @@ The complete project is based upon 3 models which are as follows:
     clip which is easier for the model to understand as:
     a) It is converted into grescale, thus has only 2 colors to distinguish between.
     b) It plays repetitively thus, the neural network gets a lot of chance to work on the errors and to rectify them.
+    LATER ON, THIS MODEL WAS REPLACED BY SPEECH TO TEXT CONVERTER MODEL
 
 3. Spelling Checker Model: This is a rather simple model which uses nltk (Natural Language Toolkit). It is a popular Python library for natural language processing (NLP) tasks. It provides a suite of libraries and programs for various NLP tasks such as tokenization, part-of-speech tagging, named entity recognition, sentiment analysis, and more. 
     It uses the following libraries:
